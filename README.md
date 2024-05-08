@@ -2,6 +2,7 @@
 
 **Description:**
 This project aims to develop a real-time system using computer vision to identify and monitor student engagement levels in classrooms. By leveraging face detection and head pose estimation, the system provides insights into individual student focus, enabling lecturers to enhance teaching strategies 
+
 **Features:**
 - **Student Profile:** Displays total lost engagement time, total engagement time, average engagement, and engagement status.
 - **Lecturer Profile:** Provides student ID, name, total lost engagement time, total engagement time, average engagement, and engagement status.
